@@ -181,7 +181,7 @@ public class bitwiserightshift{
       int number = Sc.nextInt();
       
       
-      int result = number >> 1;
+      int result = number >>1;
       System.out.println("Result is :" + result);
    }
 
