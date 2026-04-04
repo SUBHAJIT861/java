@@ -19,13 +19,6 @@ int sum = firstnumber + secondnumber;
 System.out.println("sum of your numbers: " + sum );
 
 
-
-
-
-
-
-
-
     }
 }
 
