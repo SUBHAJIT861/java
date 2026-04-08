@@ -1,6 +1,6 @@
 
-
-public class arrsumavg {
+//ARRAYSUMAND AVERAGE USING METHOD
+public class arrsumavgone {
     public static void main(String[] args) {
      int[] numArray = Arrayutility.inputArray();
      long sum = sum(numArray);
