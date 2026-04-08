@@ -16,7 +16,7 @@ public class arrsumavg {
             i++;
         }
 
-
+        
        return sum;
      }
       public static int avg(int[] numArray) {
